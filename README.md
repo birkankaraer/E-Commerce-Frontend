@@ -32,5 +32,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![EcommerceFilter](https://github.com/birkankaraer/E-Commerce-Frontend/assets/139279313/4191baf4-3520-4d2a-8c63-7f987f45b516)
 
+![2023-11-25 (1)](https://github.com/birkankaraer/E-Commerce-Frontend/assets/139279313/b5db1ea8-dc3c-4e82-beb5-16644c480608)
+
+![2023-11-25 (2)](https://github.com/birkankaraer/E-Commerce-Frontend/assets/139279313/a7363f9b-d53b-41d6-922c-c1bedabd42bb)
+
+
 
 
